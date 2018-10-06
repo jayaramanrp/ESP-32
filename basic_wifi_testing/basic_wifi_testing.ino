@@ -1,10 +1,13 @@
+/*
+ESP 32 thing 
+*/
 #include <WiFi.h>
 #include <WiFiClient.h>
 
 
 
-const char* ssid     = "j_ram";
-const char* password = "jayaraman00";
+const char* ssid     = "SSID";
+const char* password = "Passcode";
 
 WiFiServer server(26);
 WiFiClient client;
