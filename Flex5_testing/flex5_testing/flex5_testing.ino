@@ -5,6 +5,7 @@
 * Analog Input: ADC_1_0 pin ==> GPIO38
 * Analog Input: ADC_1_0 pin ==> GPIO39
 * Analog Input: ADC_1_0 pin ==> GPIO32
+email: jayaramanrp04@gmail.com
 *****************************************************/
 //Analog Input
 #define ANALOG_PIN_0 36
